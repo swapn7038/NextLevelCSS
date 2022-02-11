@@ -9,7 +9,7 @@
     width: 100px;
     height: 110px;
     background: #111;
-    /* print here cods from clippath */
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
 
 body {
