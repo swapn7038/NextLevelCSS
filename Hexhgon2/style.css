@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hexagon {
+    position: relative;
+    width: 100px;
+    height: 110px;
+    background: #111;
+    /* print here cods from clippath */
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
